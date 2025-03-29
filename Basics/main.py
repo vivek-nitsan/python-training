@@ -70,5 +70,34 @@ timestamp = time.strftime('%H:%M:%S')
 # tup2 = tup[1:4]
 # print(tup2)
 
+# name = 'Vivek'
+# age = 22
+
+# print(f"Hello my name is {name} and my age is {age}")
+
+# def factorial(n):
+#     if n == 0 or n == 1:
+#         return 1
+#     else:
+#         return n * factorial(n-1)
+    
+# print(factorial(5))
+
+# info = {'name': 'Vivek', 'age': 22, 'city': 'New Delhi'}
+# print(type(info))
+
+# cities = {'Mumbai', 'New Delhi', 'Bengaluru', 'Chennai', 'Kolkata'}
+# cities2 = {'Pune', 'Jaipur', 'Hyderabad', 'Ahmedabad'}
+
+# cities3 = cities.union(cities2)
+# print(cities3)
+
+dic = {
+    'name': 'Vivek', 
+    'age': 22, 
+    'city': 'New Delhi'
+}
+print(dic)
+
 
 
